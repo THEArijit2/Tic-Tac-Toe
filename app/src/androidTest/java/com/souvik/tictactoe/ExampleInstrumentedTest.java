@@ -1,4 +1,4 @@
-package com.souvik.tictactoe;
+package com.orijit.tictactoe;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.souvik.tictactoe", appContext.getPackageName());
+        assertEquals("com.orijit.tictactoe", appContext.getPackageName());
     }
 }
