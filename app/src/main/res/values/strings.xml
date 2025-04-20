@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="welcomemessage">Welcome to Tic Tac Toe</string>
+    <string name="justforfun">Just for Fun</string>
+    <string name="developer_credit">Developed by Souvik[JU]</string>
+    <string name="grid">maingrid</string>
+</resources>
