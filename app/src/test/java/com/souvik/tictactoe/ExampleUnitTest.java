@@ -1,4 +1,4 @@
-package com.souvik.tictactoe;
+package com.orijit.tictactoe;
 
 import org.junit.Test;
 
