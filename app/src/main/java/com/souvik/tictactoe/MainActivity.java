@@ -1,4 +1,4 @@
-package com.souvik.tictactoe;
+package com.orijit.tictactoe;
 import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 import android.os.Bundle;
